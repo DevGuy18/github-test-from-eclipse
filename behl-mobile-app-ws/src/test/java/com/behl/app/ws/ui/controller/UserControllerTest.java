@@ -21,7 +21,7 @@ import com.behl.app.ws.shared.dto.UserDto;
 import com.behl.app.ws.ui.model.response.UserRest;
 
 class UserControllerTest {
-
+//test comment for GitHub
 	@InjectMocks
 	UserController userController;
 
